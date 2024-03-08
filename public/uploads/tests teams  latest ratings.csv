@@ -1,0 +1,101 @@
+﻿Ref,Rank,Team_ref,Team,Team Flag Link,Matches,Points,Year,Month,Format
+lrTeamsTests2024_001,1,t001,AustraliaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/au.png,10,99.00,2024,February,Tests
+lrTeamsTests2024_002,2,t002,EnglandTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gb-eng.png,34,98.01,2024,February,Tests
+lrTeamsTests2024_003,3,t003,South AfricaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/za.png,15,97.03,2024,February,Tests
+lrTeamsTests2024_004,4,t004,West IndiesTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/wi.png,18,96.06,2024,February,Tests
+lrTeamsTests2024_005,5,t005,New ZealandTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/nz.png,20,95.10,2024,February,Tests
+lrTeamsTests2024_006,6,t006,IndiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/in.png,31,94.15,2024,February,Tests
+lrTeamsTests2024_007,7,t007,PakistanTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/pk.png,39,93.21,2024,February,Tests
+lrTeamsTests2024_008,8,t008,Sri LankaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/lk.png,38,92.27,2024,February,Tests
+lrTeamsTests2024_009,9,t001,CanadaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ca.png,38,91.35,2024,February,Tests
+lrTeamsTests2024_010,10,t002,ZimbabweTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/zw.png,46,90.44,2024,February,Tests
+lrTeamsTests2024_011,11,t003,BangladeshTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bd.png,38,89.53,2024,February,Tests
+lrTeamsTests2024_012,12,t004,United Arab EmiratesTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ae.png,14,88.64,2024,February,Tests
+lrTeamsTests2024_013,13,t005,NetherlandsTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/nl.png,24,87.75,2024,February,Tests
+lrTeamsTests2024_014,14,t006,KenyaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ke.png,27,86.87,2024,February,Tests
+lrTeamsTests2024_015,15,t007,ScotlandTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gb-sct.png,27,86.01,2024,February,Tests
+lrTeamsTests2024_016,16,t008,NamibiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/na.png,21,85.15,2024,February,Tests
+lrTeamsTests2024_017,17,t001,Hong KongTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/hk.png,16,84.29,2024,February,Tests
+lrTeamsTests2024_018,18,t002,United States of AmericaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/us.png,14,83.45,2024,February,Tests
+lrTeamsTests2024_019,19,t003,BermudaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bm.png,42,82.62,2024,February,Tests
+lrTeamsTests2024_020,20,t004,IrelandTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ie.png,34,81.79,2024,February,Tests
+lrTeamsTests2024_021,21,t005,AfghanistanTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/af.png,11,80.97,2024,February,Tests
+lrTeamsTests2024_022,22,t006,NepalTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/np.png,36,80.16,2024,February,Tests
+lrTeamsTests2024_023,23,t007,Papua New GuineaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/pg.png,12,79.36,2024,February,Tests
+lrTeamsTests2024_024,24,t008,OmanTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/om.png,43,78.57,2024,February,Tests
+lrTeamsTests2024_025,25,t001,BahrainTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bh.png,18,77.78,2024,February,Tests
+lrTeamsTests2024_026,26,t002,KuwaitTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/kw.png,42,77.00,2024,February,Tests
+lrTeamsTests2024_027,27,t003,MaldivesTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/mv.png,14,76.23,2024,February,Tests
+lrTeamsTests2024_028,28,t004,Saudi ArabiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/sa.png,20,75.47,2024,February,Tests
+lrTeamsTests2024_029,29,t005,QatarTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/qa.png,42,74.72,2024,February,Tests
+lrTeamsTests2024_030,30,t006,PhilippinesTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ph.png,23,73.97,2024,February,Tests
+lrTeamsTests2024_031,31,t007,VanuatuTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/vu.png,15,73.23,2024,February,Tests
+lrTeamsTests2024_032,32,t008,MaltaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/mt.png,33,72.50,2024,February,Tests
+lrTeamsTests2024_033,33,t001,SpainTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/es.png,15,71.77,2024,February,Tests
+lrTeamsTests2024_034,34,t002,BelizeTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bz.png,46,71.06,2024,February,Tests
+lrTeamsTests2024_035,35,t003,MexicoTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/mx.png,20,70.34,2024,February,Tests
+lrTeamsTests2024_036,36,t004,Costa RicaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/cr.png,47,69.64,2024,February,Tests
+lrTeamsTests2024_037,37,t005,PanamaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/pa.png,11,68.94,2024,February,Tests
+lrTeamsTests2024_038,38,t006,BelgiumTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/be.png,49,68.26,2024,February,Tests
+lrTeamsTests2024_039,39,t007,GermanyTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/de.png,37,67.57,2024,February,Tests
+lrTeamsTests2024_040,40,t008,NigeriaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ng.png,46,66.90,2024,February,Tests
+lrTeamsTests2024_041,41,t001,BotswanaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bw.png,18,66.23,2024,February,Tests
+lrTeamsTests2024_042,42,t002,GhanaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gh.png,12,65.57,2024,February,Tests
+lrTeamsTests2024_043,43,t003,UgandaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ug.png,38,64.91,2024,February,Tests
+lrTeamsTests2024_044,44,t004,ItalyTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/it.png,25,64.26,2024,February,Tests
+lrTeamsTests2024_045,45,t005,GuernseyTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gg.png,37,63.62,2024,February,Tests
+lrTeamsTests2024_046,46,t006,JerseyTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/je.png,29,62.98,2024,February,Tests
+lrTeamsTests2024_047,47,t007,NorwayTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/no.png,10,62.35,2024,February,Tests
+lrTeamsTests2024_048,48,t008,DenmarkTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/dk.png,28,61.73,2024,February,Tests
+lrTeamsTests2024_049,49,t001,MalaysiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/my.png,23,61.11,2024,February,Tests
+lrTeamsTests2024_050,50,t002,ThailandTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/th.png,40,60.50,2024,February,Tests
+lrTeamsTests2024_051,51,t003,SamoaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ws.png,45,59.90,2024,February,Tests
+lrTeamsTests2024_052,52,t004,FinlandTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/fi.png,28,59.30,2024,February,Tests
+lrTeamsTests2024_053,53,t005,SingaporeTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/sg.png,24,58.70,2024,February,Tests
+lrTeamsTests2024_054,54,t006,Cayman IslandsTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ky.png,39,58.12,2024,February,Tests
+lrTeamsTests2024_055,55,t007,AustriaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/at.png,26,57.54,2024,February,Tests
+lrTeamsTests2024_056,56,t008,RomaniaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ro.png,43,56.96,2024,February,Tests
+lrTeamsTests2024_057,57,t001,LuxembourgTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/lu.png,18,56.39,2024,February,Tests
+lrTeamsTests2024_058,58,t002,TurkeyTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/tr.png,38,55.83,2024,February,Tests
+lrTeamsTests2024_059,59,t003,Czech RepublicTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/cz.png,30,55.27,2024,February,Tests
+lrTeamsTests2024_060,60,t004,ArgentinaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ar.png,48,54.72,2024,February,Tests
+lrTeamsTests2024_061,61,t005,BrazilTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/br.png,21,54.17,2024,February,Tests
+lrTeamsTests2024_062,62,t006,ChileTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/cl.png,29,53.63,2024,February,Tests
+lrTeamsTests2024_063,63,t007,PeruTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/pe.png,28,53.09,2024,February,Tests
+lrTeamsTests2024_064,64,t008,BulgariaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bg.png,23,52.56,2024,February,Tests
+lrTeamsTests2024_065,65,t001,SerbiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/rs.png,34,52.03,2024,February,Tests
+lrTeamsTests2024_066,66,t002,GreeceTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gr.png,19,51.51,2024,February,Tests
+lrTeamsTests2024_067,67,t003,PortugalTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/pt.png,32,51.00,2024,February,Tests
+lrTeamsTests2024_068,68,t004,GibraltarTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gi.png,30,50.49,2024,February,Tests
+lrTeamsTests2024_069,69,t005,MalawiTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/mw.png,41,49.98,2024,February,Tests
+lrTeamsTests2024_070,70,t006,MozambiqueTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/mz.png,25,49.48,2024,February,Tests
+lrTeamsTests2024_071,71,t007,BhutanTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bt.png,24,48.99,2024,February,Tests
+lrTeamsTests2024_072,72,t008,Isle of ManTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/im.png,36,48.50,2024,February,Tests
+lrTeamsTests2024_073,73,t001,FranceTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/fr.png,18,48.01,2024,February,Tests
+lrTeamsTests2024_074,74,t002,SwedenTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/se.png,21,47.53,2024,February,Tests
+lrTeamsTests2024_075,75,t003,RwandaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/rw.png,37,47.06,2024,February,Tests
+lrTeamsTests2024_076,76,t004,HungaryTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/hu.png,42,46.59,2024,February,Tests
+lrTeamsTests2024_077,77,t005,CyprusTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/cy.png,15,46.12,2024,February,Tests
+lrTeamsTests2024_078,78,t006,EstoniaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ee.png,21,45.66,2024,February,Tests
+lrTeamsTests2024_079,79,t007,LesothoTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ls.png,49,45.20,2024,February,Tests
+lrTeamsTests2024_080,80,t008,SeychellesTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/sc.png,50,44.75,2024,February,Tests
+lrTeamsTests2024_081,81,t001,Sierra LeoneTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/sl.png,17,44.30,2024,February,Tests
+lrTeamsTests2024_082,82,t002,SwitzerlandTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ch.png,17,43.86,2024,February,Tests
+lrTeamsTests2024_083,83,t003,CameroonTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/cm.png,23,43.42,2024,February,Tests
+lrTeamsTests2024_084,84,t004,BahamasTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/bs.png,23,42.99,2024,February,Tests
+lrTeamsTests2024_085,85,t005,IsraelTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/il.png,13,42.56,2024,February,Tests
+lrTeamsTests2024_086,86,t006,CroatiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/hr.png,37,42.13,2024,February,Tests
+lrTeamsTests2024_087,87,t007,SloveniaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/si.png,26,41.71,2024,February,Tests
+lrTeamsTests2024_088,88,t008,FijiTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/fj.png,16,41.29,2024,February,Tests
+lrTeamsTests2024_089,89,t001,Cook IslandsTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ck.png,28,40.88,2024,February,Tests
+lrTeamsTests2024_090,90,t002,IndonesiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/id.png,25,40.47,2024,February,Tests
+lrTeamsTests2024_091,91,t003,JapanTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/jp.png,31,40.07,2024,February,Tests
+lrTeamsTests2024_092,92,t004,MaliTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ml.png,40,39.67,2024,February,Tests
+lrTeamsTests2024_093,93,t005,GambiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gm.png,21,39.27,2024,February,Tests
+lrTeamsTests2024_094,94,t006,CambodiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/kh.png,48,38.88,2024,February,Tests
+lrTeamsTests2024_095,95,t007,MyanmarTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/mm.png,46,38.49,2024,February,Tests
+lrTeamsTests2024_096,96,t008,MongoliaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/mn.png,32,38.10,2024,February,Tests
+lrTeamsTests2024_097,97,t009,MaliTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ml.png,22,37.72,2024,February,Tests
+lrTeamsTests2024_098,98,t010,GambiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/gm.png,46,37.35,2024,February,Tests
+lrTeamsTests2024_099,99,t011,CambodiaTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/kh.png,38,36.97,2024,February,Tests
+lrTeamsTests2024_100,100,t012,MaliTestslr,https://cricratings.nyc3.cdn.digitaloceanspaces.com/teams_images/ml.png,34,36.60,2024,February,Tests

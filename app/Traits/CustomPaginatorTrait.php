@@ -1,0 +1,25 @@
+<?php
+namespace App\Traits;
+
+use Illuminate\Pagination\Paginator;
+use Illuminate\Pagination\LengthAwarePaginator;
+
+trait CustomPaginatorTrait
+{
+    public static function customPaginate($items, $perPage, $total, $currentPage = null)
+    {
+        // print_r($total);die;
+        $currentPage = $currentPage ?: static::resolveCurrentPage();
+        return (new static($items, $total, $perPage, $currentPage))->withPath('/');
+        
+    }
+    // public static function paginate($items, $perPage = 5, $page = null)
+    // {
+    //     $page = $page ?: (Paginator::resolveCurrentPage() ?: 1);
+    //     $total = count($items);
+    //     $currentpage = $page;
+    //     $offset = ($currentpage * $perPage) - $perPage ;
+    //     $itemstoshow = array_slice($items , $offset , $perPage);
+    //     return new LengthAwarePaginator($itemstoshow ,$total   ,$perPage);
+    // }
+}
